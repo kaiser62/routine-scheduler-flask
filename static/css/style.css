@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 1em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#date-day {
+    padding: 0.5em;
+    border: none;
+}
+
+main {
+    padding: 2em 0;
+}
+
+.editable {
+    background-color: #fff;
+}
+
+#admin-panel {
+    padding: 2em 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 2em;
+}
